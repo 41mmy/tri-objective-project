@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.jpg
+!figures/*.jpg
+page-*.jpg
+verify_page-*.jpg
+compact_page-*.jpg
+paper_preview-*.jpg
+*.zip
+hv_recompute.log

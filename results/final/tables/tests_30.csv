@@ -1,0 +1,109 @@
+Scenario,Mode,Metric,Comparison,p (Holm),Significant,Cliff's delta,Magnitude,Favours
+30%,Deterministic,HV (higher better),HADE-NS vs NSGA-II,1.09e-08,yes,+0.878,large,HADE-NS
+30%,Deterministic,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+30%,Deterministic,HV (higher better),HADE-NS vs MOEA/D,2.21e-09,yes,-0.927,large,MOEA/D
+30%,Deterministic,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+30%,Deterministic,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-0.998,large,MOEA/D
+30%,Deterministic,HV (higher better),MOPSO vs MOEA/D,3.18e-04,yes,+0.542,large,MOPSO
+30%,Deterministic,Lowest cost (lower better),HADE-NS vs NSGA-II,4.42e-06,yes,-0.740,large,HADE-NS
+30%,Deterministic,Lowest cost (lower better),HADE-NS vs MOPSO,6.10e-01,no,+0.078,negligible,MOPSO
+30%,Deterministic,Lowest cost (lower better),HADE-NS vs MOEA/D,7.82e-02,no,+0.336,medium,MOEA/D
+30%,Deterministic,Lowest cost (lower better),NSGA-II vs MOPSO,8.01e-06,yes,+0.716,large,MOPSO
+30%,Deterministic,Lowest cost (lower better),NSGA-II vs MOEA/D,2.38e-07,yes,+0.827,large,MOEA/D
+30%,Deterministic,Lowest cost (lower better),MOPSO vs MOEA/D,1.93e-01,no,+0.251,small,MOEA/D
+30%,Deterministic,IGD+ (lower better),HADE-NS vs NSGA-II,4.77e-06,yes,-0.738,large,HADE-NS
+30%,Deterministic,IGD+ (lower better),HADE-NS vs MOPSO,4.73e-01,no,+0.109,negligible,MOPSO
+30%,Deterministic,IGD+ (lower better),HADE-NS vs MOEA/D,1.58e-04,yes,+0.609,large,MOEA/D
+30%,Deterministic,IGD+ (lower better),NSGA-II vs MOPSO,9.27e-06,yes,+0.711,large,MOPSO
+30%,Deterministic,IGD+ (lower better),NSGA-II vs MOEA/D,9.28e-09,yes,+0.909,large,MOEA/D
+30%,Deterministic,IGD+ (lower better),MOPSO vs MOEA/D,3.04e-03,yes,+0.478,large,MOEA/D
+30%,Robust,HV (higher better),HADE-NS vs NSGA-II,3.12e-08,yes,+0.851,large,HADE-NS
+30%,Robust,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+30%,Robust,HV (higher better),HADE-NS vs MOEA/D,1.67e-09,yes,-0.933,large,MOEA/D
+30%,Robust,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+30%,Robust,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-1.000,large,MOEA/D
+30%,Robust,HV (higher better),MOPSO vs MOEA/D,1.50e-02,yes,+0.367,medium,MOPSO
+30%,Robust,Lowest cost (lower better),HADE-NS vs NSGA-II,7.79e-08,yes,-0.851,large,HADE-NS
+30%,Robust,Lowest cost (lower better),HADE-NS vs MOPSO,3.40e-01,no,-0.144,negligible,HADE-NS
+30%,Robust,Lowest cost (lower better),HADE-NS vs MOEA/D,1.27e-01,no,+0.280,small,MOEA/D
+30%,Robust,Lowest cost (lower better),NSGA-II vs MOPSO,4.77e-06,yes,+0.731,large,MOPSO
+30%,Robust,Lowest cost (lower better),NSGA-II vs MOEA/D,7.04e-09,yes,+0.916,large,MOEA/D
+30%,Robust,Lowest cost (lower better),MOPSO vs MOEA/D,4.69e-02,yes,+0.364,medium,MOEA/D
+30%,Robust,IGD+ (lower better),HADE-NS vs NSGA-II,1.19e-07,yes,-0.840,large,HADE-NS
+30%,Robust,IGD+ (lower better),HADE-NS vs MOPSO,3.11e-01,no,-0.153,small,HADE-NS
+30%,Robust,IGD+ (lower better),HADE-NS vs MOEA/D,8.88e-05,yes,+0.629,large,MOEA/D
+30%,Robust,IGD+ (lower better),NSGA-II vs MOPSO,7.44e-06,yes,+0.718,large,MOPSO
+30%,Robust,IGD+ (lower better),NSGA-II vs MOEA/D,1.07e-09,yes,+0.960,large,MOEA/D
+30%,Robust,IGD+ (lower better),MOPSO vs MOEA/D,8.88e-05,yes,+0.622,large,MOEA/D
+50%,Deterministic,HV (higher better),HADE-NS vs NSGA-II,3.71e-09,yes,+0.904,large,HADE-NS
+50%,Deterministic,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+50%,Deterministic,HV (higher better),HADE-NS vs MOEA/D,3.71e-09,yes,-0.891,large,MOEA/D
+50%,Deterministic,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+50%,Deterministic,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-1.000,large,MOEA/D
+50%,Deterministic,HV (higher better),MOPSO vs MOEA/D,1.04e-09,yes,+0.944,large,MOPSO
+50%,Deterministic,Lowest cost (lower better),HADE-NS vs NSGA-II,1.12e-05,yes,-0.718,large,HADE-NS
+50%,Deterministic,Lowest cost (lower better),HADE-NS vs MOPSO,1.40e-01,no,-0.300,small,HADE-NS
+50%,Deterministic,Lowest cost (lower better),HADE-NS vs MOEA/D,3.34e-01,no,-0.209,small,HADE-NS
+50%,Deterministic,Lowest cost (lower better),NSGA-II vs MOPSO,3.47e-02,yes,+0.396,medium,MOPSO
+50%,Deterministic,Lowest cost (lower better),NSGA-II vs MOEA/D,8.41e-04,yes,+0.567,large,MOEA/D
+50%,Deterministic,Lowest cost (lower better),MOPSO vs MOEA/D,4.20e-01,no,+0.122,negligible,MOEA/D
+50%,Deterministic,IGD+ (lower better),HADE-NS vs NSGA-II,3.32e-07,yes,-0.818,large,HADE-NS
+50%,Deterministic,IGD+ (lower better),HADE-NS vs MOPSO,7.93e-01,no,-0.147,negligible,HADE-NS
+50%,Deterministic,IGD+ (lower better),HADE-NS vs MOEA/D,7.93e-01,no,+0.069,negligible,MOEA/D
+50%,Deterministic,IGD+ (lower better),NSGA-II vs MOPSO,1.04e-04,yes,+0.633,large,MOPSO
+50%,Deterministic,IGD+ (lower better),NSGA-II vs MOEA/D,3.32e-07,yes,+0.818,large,MOEA/D
+50%,Deterministic,IGD+ (lower better),MOPSO vs MOEA/D,7.93e-01,no,+0.169,small,MOEA/D
+50%,Robust,HV (higher better),HADE-NS vs NSGA-II,6.05e-07,yes,+0.751,large,HADE-NS
+50%,Robust,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+50%,Robust,HV (higher better),HADE-NS vs MOEA/D,1.15e-08,yes,-0.880,large,MOEA/D
+50%,Robust,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+50%,Robust,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-1.000,large,MOEA/D
+50%,Robust,HV (higher better),MOPSO vs MOEA/D,1.15e-08,yes,+0.887,large,MOPSO
+50%,Robust,Lowest cost (lower better),HADE-NS vs NSGA-II,1.61e-05,yes,-0.707,large,HADE-NS
+50%,Robust,Lowest cost (lower better),HADE-NS vs MOPSO,9.65e-01,no,-0.107,negligible,HADE-NS
+50%,Robust,Lowest cost (lower better),HADE-NS vs MOEA/D,5.01e-01,no,-0.209,small,HADE-NS
+50%,Robust,Lowest cost (lower better),NSGA-II vs MOPSO,3.81e-03,yes,+0.498,large,MOPSO
+50%,Robust,Lowest cost (lower better),NSGA-II vs MOEA/D,6.62e-04,yes,+0.576,large,MOEA/D
+50%,Robust,Lowest cost (lower better),MOPSO vs MOEA/D,9.65e-01,no,-0.036,negligible,MOPSO
+50%,Robust,IGD+ (lower better),HADE-NS vs NSGA-II,5.14e-06,yes,-0.736,large,HADE-NS
+50%,Robust,IGD+ (lower better),HADE-NS vs MOPSO,1.00e+00,no,+0.084,negligible,MOPSO
+50%,Robust,IGD+ (lower better),HADE-NS vs MOEA/D,1.00e+00,no,+0.073,negligible,MOEA/D
+50%,Robust,IGD+ (lower better),NSGA-II vs MOPSO,5.72e-05,yes,+0.653,large,MOPSO
+50%,Robust,IGD+ (lower better),NSGA-II vs MOEA/D,2.28e-06,yes,+0.764,large,MOEA/D
+50%,Robust,IGD+ (lower better),MOPSO vs MOEA/D,1.00e+00,no,+0.004,negligible,MOEA/D
+70%,Deterministic,HV (higher better),HADE-NS vs NSGA-II,2.19e-08,yes,+0.842,large,HADE-NS
+70%,Deterministic,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+70%,Deterministic,HV (higher better),HADE-NS vs MOEA/D,5.22e-10,yes,-0.951,large,MOEA/D
+70%,Deterministic,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+70%,Deterministic,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-1.000,large,MOEA/D
+70%,Deterministic,HV (higher better),MOPSO vs MOEA/D,1.81e-10,yes,+1.000,large,MOPSO
+70%,Deterministic,Lowest cost (lower better),HADE-NS vs NSGA-II,3.63e-06,yes,-0.751,large,HADE-NS
+70%,Deterministic,Lowest cost (lower better),HADE-NS vs MOPSO,1.75e-01,no,-0.258,small,HADE-NS
+70%,Deterministic,Lowest cost (lower better),HADE-NS vs MOEA/D,1.68e-03,yes,-0.540,large,HADE-NS
+70%,Deterministic,Lowest cost (lower better),NSGA-II vs MOPSO,5.77e-03,yes,+0.480,large,MOPSO
+70%,Deterministic,Lowest cost (lower better),NSGA-II vs MOEA/D,9.10e-02,no,+0.327,small,MOEA/D
+70%,Deterministic,Lowest cost (lower better),MOPSO vs MOEA/D,1.75e-01,no,-0.220,small,MOPSO
+70%,Deterministic,IGD+ (lower better),HADE-NS vs NSGA-II,1.85e-07,yes,-0.833,large,HADE-NS
+70%,Deterministic,IGD+ (lower better),HADE-NS vs MOPSO,8.88e-01,no,+0.022,negligible,MOPSO
+70%,Deterministic,IGD+ (lower better),HADE-NS vs MOEA/D,1.67e-02,yes,-0.418,medium,HADE-NS
+70%,Deterministic,IGD+ (lower better),NSGA-II vs MOPSO,6.27e-07,yes,+0.796,large,MOPSO
+70%,Deterministic,IGD+ (lower better),NSGA-II vs MOEA/D,4.67e-05,yes,+0.660,large,MOEA/D
+70%,Deterministic,IGD+ (lower better),MOPSO vs MOEA/D,7.83e-02,no,-0.311,small,MOPSO
+70%,Robust,HV (higher better),HADE-NS vs NSGA-II,7.77e-09,yes,+0.869,large,HADE-NS
+70%,Robust,HV (higher better),HADE-NS vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+70%,Robust,HV (higher better),HADE-NS vs MOEA/D,4.45e-09,yes,-0.900,large,MOEA/D
+70%,Robust,HV (higher better),NSGA-II vs MOPSO,1.81e-10,yes,-1.000,large,MOPSO
+70%,Robust,HV (higher better),NSGA-II vs MOEA/D,1.81e-10,yes,-1.000,large,MOEA/D
+70%,Robust,HV (higher better),MOPSO vs MOEA/D,1.81e-10,yes,+1.000,large,MOPSO
+70%,Robust,Lowest cost (lower better),HADE-NS vs NSGA-II,7.72e-09,yes,-0.913,large,HADE-NS
+70%,Robust,Lowest cost (lower better),HADE-NS vs MOPSO,2.77e-03,yes,-0.511,large,HADE-NS
+70%,Robust,Lowest cost (lower better),HADE-NS vs MOEA/D,1.07e-04,yes,-0.640,large,HADE-NS
+70%,Robust,Lowest cost (lower better),NSGA-II vs MOPSO,1.91e-02,yes,+0.411,medium,MOPSO
+70%,Robust,Lowest cost (lower better),NSGA-II vs MOEA/D,9.68e-02,no,+0.298,small,MOEA/D
+70%,Robust,Lowest cost (lower better),MOPSO vs MOEA/D,3.33e-01,no,-0.147,negligible,MOPSO
+70%,Robust,IGD+ (lower better),HADE-NS vs NSGA-II,1.17e-09,yes,-0.958,large,HADE-NS
+70%,Robust,IGD+ (lower better),HADE-NS vs MOPSO,3.07e-01,no,-0.200,small,HADE-NS
+70%,Robust,IGD+ (lower better),HADE-NS vs MOEA/D,3.90e-03,yes,-0.484,large,HADE-NS
+70%,Robust,IGD+ (lower better),NSGA-II vs MOPSO,7.46e-06,yes,+0.724,large,MOPSO
+70%,Robust,IGD+ (lower better),NSGA-II vs MOEA/D,2.69e-05,yes,+0.678,large,MOEA/D
+70%,Robust,IGD+ (lower better),MOPSO vs MOEA/D,3.07e-01,no,-0.216,small,MOPSO
